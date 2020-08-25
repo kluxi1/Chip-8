@@ -1,0 +1,1 @@
+g++ -Werror -Wall -Wextra -std=c++11 main.cpp -lsfml-graphics -lsfml-system -lsfml-window -lsfml-audio -o out.a

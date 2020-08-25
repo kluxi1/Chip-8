@@ -1,0 +1,1 @@
+g++ -std=c++11 -Werror -Wall -Wextra -o out.a main_test.cpp cpu_test.cpp -l gtest -Wno-unused-variable
